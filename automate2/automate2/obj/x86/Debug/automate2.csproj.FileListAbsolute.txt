@@ -1,0 +1,8 @@
+c:\users\hernaez\documents\visual studio 2010\Projects\automate2\automate2\bin\Debug\automate2.exe
+c:\users\hernaez\documents\visual studio 2010\Projects\automate2\automate2\bin\Debug\automate2.pdb
+c:\users\hernaez\documents\visual studio 2010\Projects\automate2\automate2\obj\x86\Debug\automate2.csproj.ResolveComReference.cache
+c:\users\hernaez\documents\visual studio 2010\Projects\automate2\automate2\obj\x86\Debug\automate2.Form1.resources
+c:\users\hernaez\documents\visual studio 2010\Projects\automate2\automate2\obj\x86\Debug\automate2.Properties.Resources.resources
+c:\users\hernaez\documents\visual studio 2010\Projects\automate2\automate2\obj\x86\Debug\automate2.csproj.GenerateResource.Cache
+c:\users\hernaez\documents\visual studio 2010\Projects\automate2\automate2\obj\x86\Debug\automate2.exe
+c:\users\hernaez\documents\visual studio 2010\Projects\automate2\automate2\obj\x86\Debug\automate2.pdb

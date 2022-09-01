@@ -1,0 +1,8 @@
+C:\Users\Hernaez\Documents\Visual Studio 2010\Projects\automate2\automate2\bin\Debug\automate2.exe
+C:\Users\Hernaez\Documents\Visual Studio 2010\Projects\automate2\automate2\bin\Debug\automate2.pdb
+C:\Users\Hernaez\Documents\Visual Studio 2010\Projects\automate2\automate2\obj\x86\Debug\automateExcel.csproj.ResolveComReference.cache
+C:\Users\Hernaez\Documents\Visual Studio 2010\Projects\automate2\automate2\obj\x86\Debug\automateExcel.Form1.resources
+C:\Users\Hernaez\Documents\Visual Studio 2010\Projects\automate2\automate2\obj\x86\Debug\automateExcel.Properties.Resources.resources
+C:\Users\Hernaez\Documents\Visual Studio 2010\Projects\automate2\automate2\obj\x86\Debug\automateExcel.csproj.GenerateResource.Cache
+C:\Users\Hernaez\Documents\Visual Studio 2010\Projects\automate2\automate2\obj\x86\Debug\automate2.exe
+C:\Users\Hernaez\Documents\Visual Studio 2010\Projects\automate2\automate2\obj\x86\Debug\automate2.pdb
